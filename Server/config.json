@@ -1,0 +1,11 @@
+{
+  "ListenAddress": "0.0.0.0",
+  "Port": 38888,
+  "UseForegroundWindow": true,
+  "TargetProcessPath": "",
+  "TargetWindowTitle": "",
+  "InputDelayMs": 150,
+  "MaxTextLength": 16000,
+  "LogLevel": "Debug",
+  "LogMaxSizeMB": 1024
+}

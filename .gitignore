@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/.godot/
+publish/
+.packages/
+.nuget/
+**/logs/
+**/server.log
+**/server.history.log
+**/client-settings.json
+**/export_presets.cfg
